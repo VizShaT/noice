@@ -1,0 +1,1 @@
+// check ES6 compatibilty http://kangax.github.io/compat-table/es6/
